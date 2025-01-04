@@ -95,7 +95,4 @@ Here are programming languages or tools I frequently used:
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/miqui-cmd/miquicmd/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
