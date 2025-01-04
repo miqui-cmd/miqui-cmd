@@ -75,8 +75,8 @@ Here are programming languages or tools I frequently used:
   <img
     height="30"
     width="42"
-    alt="arduino logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+    alt="Javascript Logo"
+    src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
   />
 </div>
 
