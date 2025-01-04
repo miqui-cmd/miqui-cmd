@@ -27,12 +27,6 @@ Here are programming languages or tools I frequently used:
   <img
     height="30"
     width="42"
-    alt="matlab logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
     alt="react logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   />
@@ -47,12 +41,6 @@ Here are programming languages or tools I frequently used:
     width="42"
     alt="nextjs logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
   />
   <img
     height="30"
