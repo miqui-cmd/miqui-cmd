@@ -73,7 +73,7 @@ Here are programming languages or tools I frequently used:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
   />
   <img
-    height="30"
+    height="40"
     width="42"
     alt="Javascript Logo"
     src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
